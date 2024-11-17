@@ -1,7 +1,5 @@
 # 👋 Hi there! I'm Edric Ho
 
-![Welcome Banner](https://user-images.githubusercontent.com/Edric-Ho/welcome-banner.png)
-
 I am majoring in CS and Applied Math and minoring in Philosophy at the UofT. Currently diving into full-stack development, and mathematical problem solving.
 
 ## 🚀 About Me
@@ -17,7 +15,7 @@ I am majoring in CS and Applied Math and minoring in Philosophy at the UofT. Cur
 - **Dev Tools**: JetBrains Combo/VSCode, zsh shell on my MacBook Pro with M1 chip
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/edricho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edric-ho-9868b11a0/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/edric-ho)
 [![Personal Website](https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=google-chrome)](https://edricho.me)
 
@@ -29,13 +27,13 @@ I am majoring in CS and Applied Math and minoring in Philosophy at the UofT. Cur
 
 ## 📊 GitHub Stats
 
-![Edric's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Edric's GitHub stats](https://github-readme-stats.vercel.app/api?username=edric-ho&show_icons=true&theme=radical)
 
 ## 📈 Streaks and Most Used Languages
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edric-ho&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edric-ho&layout=compact&theme=radical)
 
 ---
 
