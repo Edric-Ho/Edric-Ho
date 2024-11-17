@@ -6,7 +6,7 @@ I am majoring in CS and Applied Math and minoring in Philosophy at the UofT. Cur
 
 - 🌱 I’m currently learning **full-stack development** (including frontend and backend, which is still new to me!).
 - 🎓 I'm also working on **mathematically rigorous proofs** in my Math courses, at the same time i'm also really into ML, and love solving challenging problems.
-- 💡 Ask me about **logical left shifts**, **mathematical analysis**. ****—I'm totally into them right now.
+- 💡 Ask me about **logical left shifts**, **mathematical analysis**. I'm totally into them right now.
 - 📍 I'm based in Toronto, Canada 🇨🇦 but travel frequently.
 
 ## 🛠️ Languages and Tools
