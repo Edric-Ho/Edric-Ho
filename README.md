@@ -37,4 +37,4 @@ I am majoring in CS and Applied Math and minoring in Philosophy at the UofT. Cur
 
 ---
 
-⭐️ Feel free to **star** some of my projects, and drop by for a chat if you’d like to collaborate or just talk about **mathematics**, **AI ethics**, or anything in between!
+⭐️ Feel free to **star** some of my projects, and drop by for a chat if you’d like to collaborate or just talk about anything!
