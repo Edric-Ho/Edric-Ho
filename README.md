@@ -33,7 +33,7 @@ I am majoring in CS and Applied Math and minoring in Philosophy at the UofT. Cur
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edric-ho&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edric-ho&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edric-ho)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
