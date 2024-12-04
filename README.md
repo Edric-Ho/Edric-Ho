@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Edric Ho
+# 👋 Hi there! I'm Edric Ho 
 
 I am majoring in CS and Applied Math and minoring in Philosophy at the UofT. Currently diving into full-stack development, and mathematical problem solving.
 
