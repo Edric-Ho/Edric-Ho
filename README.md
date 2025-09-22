@@ -10,9 +10,11 @@ I am majoring in CS and Applied Math and minoring in Philosophy at the UofT. Cur
 - 📍 I'm based in Toronto, Canada 🇨🇦 but travel frequently.
 
 ## 🛠️ Languages and Tools
-- **Languages**: Python, Java, C++, C, Javascript, Ruby, TypeScript, Go
-- **Technologies**: Angular, React, Vue, Node.js, MySQL, MongoDB, Redis, Linux, Git
+- **Languages**: Python, Java, C++, JavaScript/TypeScript, HTML/CSS, SQL
+- **Frameworks & Tools**: React, Node.js, Express, Spring Boot, Flask, Angular, Bootstrap
 - **Dev Tools**: JetBrains Combo/VSCode, zsh shell on my MacBook Pro with M1 chip
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **DevOps**: Docker, Kubernetes, AWS (EC2, ECS, S3, CLI), GitHub Actions, ...etc.
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edric-ho-9868b11a0/)
