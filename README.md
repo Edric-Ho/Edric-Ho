@@ -27,10 +27,6 @@ I am majoring in CS and Applied Math and minoring in Philosophy at the UofT. Cur
 - 🍜 Expert ramen maker (can vouch for it)! 
 - 🎮 Love playing **Factorio** and tweaking mods.
 
-## 📊 GitHub Stats
-
-![Edric's GitHub stats](https://github-readme-stats.vercel.app/api?username=edric-ho&show_icons=true&theme=radical)
-
 ## 📈 Streaks and Most Used Languages
 
 
