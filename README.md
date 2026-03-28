@@ -21,17 +21,3 @@ I am majoring in CS and Applied Math and minoring in Philosophy at the UofT. Cur
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/edric-ho)
 [![Personal Website](https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=google-chrome)](https://edricho.me)
 
-## ⚡ Fun Facts
-
-- 📚 I’m also into **philosophy**—ask me about **Descartes** or **Nietzsche**.
-- 🍜 Expert ramen maker (can vouch for it)! 
-- 🎮 Love playing **Factorio** and tweaking mods.
-
-## 📈 Streaks and Most Used Languages
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edric-ho)](https://github.com/edric-ho/github-readme-stats&langs_count=5)
-
----
-
-⭐️ Feel free to **star** some of my projects, and drop by for a chat if you’d like to collaborate or just talk about anything!
